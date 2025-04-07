@@ -1,0 +1,13 @@
+title: "Network Not Work"
+name: "Network Not Work"
+description: "Kişisel blog"
+url: "https://www.networknotwork.net"
+baseurl: ""
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
